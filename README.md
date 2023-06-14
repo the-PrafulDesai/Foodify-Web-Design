@@ -12,7 +12,7 @@ Foodify: A visually appealing and user-friendly non-responsive front-end project
 
 ->Getting Started
 To view the design concept and interact with the prototype, follow these steps:
-1) Clone the repository: git clone https://github.com/your-username/foodify.git
+1) Clone the repository: git clone https://github.com/the-PrafulDesai/Foodify-Web-Design.git
 2) Open the project in Figma or any compatible design tool.
 3) Explore the different screens and components of the web design.
 
